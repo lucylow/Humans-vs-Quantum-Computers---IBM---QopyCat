@@ -12,7 +12,6 @@ To learn some of these basic quantum concepts for yourself, check out the first 
 
 
 
-Qiskit textbook
 
 # How it works 
 What is a quantum circuit? https://www.youtube.com/playlist?list=PL1826E60FD05B44E4
@@ -28,19 +27,15 @@ https://qiskit.org/textbook/preface.html
 
 To make a quantum game, you'll need to write quantum software. The basic unit of quantum software is the circuit. You can create and manipulate these in Python by using the Qiskit framework.
 
-Qiskit
-
-https://qiskit.org/
+Qiskit https://qiskit.org/
 
 Once you have your quantum software, you need to run it. For complex quantum circuits, the only option is to run it on actual quantum computers. Prototype examples of this quantum hardware are freely available at the IBM Quantum Experience. It is a cloud service, where you submit your quantum jobs to run in the IBM Quantum labs. Note that it will take at least a few minutes to get your results back, so the wait time would need to be taken into account in your game.
 
-IBM Quantum Experience
-https://quantum-computing.ibm.com/
+IBM Quantum Experience https://quantum-computing.ibm.com/
 
 If your quantum circuits are not very complex, you can avoid the need to use real quantum hardware. Instead you can just emulate it on your laptop (or even your phone) using tools bundled in with Qiskit. This is what is done by the vast majority of games that have been made using Qiskit so far (such as QPong)
 
-Qiskit Simulators
-https://qiskit.org/overview/#simulators
+Qiskit Simulators https://qiskit.org/overview/#simulators
 
 
 =====
