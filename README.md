@@ -173,6 +173,7 @@ Enter q_command and click the Save button.
 * Add game mechanics like portals and powerups
 * Add quantum wall barrier to change good/bad cat relative positions
 * Compare circuit execution on a classical computer vs real quantum device
+* https://github.com/mxgmn/WaveFunctionCollapse
 * Add different circuits like quantum error correction for the cat to get rid of quantum errors to keep our quantum state alive
 * procedural generation like terrain, levels, puzzles, etc) for game content using quantum computing 
 
