@@ -16,10 +16,15 @@ To learn some of these basic quantum concepts for yourself, check out the first 
 Shipping a cat to Schrödinger. Better make sure it survives!
 
 
+Good cat v.s. Bad cat.
+
+Bad cat is an obnoxious cat who, sickly, gets off on copying, imitating, emulating, simulating and miming all your actions. She is just another individual who copies you in everything you do.
+
 In the dawn of the Quantum Era, a primitive 3-qubit Quantum Computer is trying to challenge the Classical Computer, the long-time ruler of the Computer Empire. Your mission is to use your Human Intelligence to help the Quantum Computer defeat the Classical Computer and demonstrate "quantum supremacy" for the first time in human history. The battle field of the Quantum-Classic war is none other than the classic Pong game.
 
 
 
+This is a quantum puzzle game in which you have to save both the good and bad cat in the screen at the same time, in order to earn quantum gates to complete the quantum circuit. 
 
 
 # How it works 
