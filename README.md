@@ -23,6 +23,11 @@ In the dawn of the Quantum Era, a primitive 3-qubit Quantum Computer is trying t
 
 
 # How it works 
+
+This is a tile-based puzzle game with a quantum physics twist. You control a cat in a superposition through a bizarre world. 
+
+
+
 What is a quantum circuit? https://www.youtube.com/playlist?list=PL1826E60FD05B44E4
 
 A game for exploring and understanding quantum teleportation using quantum circuits with a drag-and-drop quantum circuit simulator.
@@ -59,6 +64,19 @@ Save the world with quantum circuits.
 gamification of science: When making a quantum-related game, you can choose one of two paths: either you implement a quantum technique like procedural generation of maps, or you take an educational approach. 
 
 You win by solving quantum circuit puzzles. 
+
+-Move with WASD or arrow keys. 
+
+-Avoid lethal yellow lasers.
+
+-Use blue detector lines to your advantage by briefly collapsing the superposition.
+
+-Move both cats into the cardboard boxes to clear the level.
+
+-There might be other things that exist in superposition as well.
+
+-Press "R" if you get stuck.
+
 
 1. The game begins when N players.
 2. The initial and final quantum states are given.
