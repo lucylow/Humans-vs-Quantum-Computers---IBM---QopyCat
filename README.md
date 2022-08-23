@@ -1,4 +1,4 @@
-# QopyCat Quantum Cats
+# < QopyCat | Quantum Cats >
 Humans-vs-Quantum-Computers
 Womanium Quantum Hackathon 2022
 
@@ -9,6 +9,15 @@ Quantum Teleportation built using IBM's QisKit SDK to create quantum computing c
 Taking advantage of IBM's public facing 5 qubit quantum computer
 
 To learn some of these basic quantum concepts for yourself, check out the first few sections of the textbook Learn Quantum Computation using Qiskit. The first chapter starts off quite gently, without assuming too much background mathematical knowlege.
+
+
+# Storyline
+
+Shipping a cat to Schrödinger. Better make sure it survives!
+
+
+In the dawn of the Quantum Era, a primitive 3-qubit Quantum Computer is trying to challenge the Classical Computer, the long-time ruler of the Computer Empire. Your mission is to use your Human Intelligence to help the Quantum Computer defeat the Classical Computer and demonstrate "quantum supremacy" for the first time in human history. The battle field of the Quantum-Classic war is none other than the classic Pong game.
+
 
 
 
@@ -43,7 +52,11 @@ Qiskit Simulators https://qiskit.org/overview/#simulators
 The game needs a good understanding of how various probabilities interact, to be able to comprehend how the state collapses upon observation, which happens when the piece is either capturing or being captured, and decides the position of a piece in superposition. Game is a great way to demonstrate and understand quantum properties.
 
 
-# How to play?
+# How to play? 
+
+Save the world with quantum circuits. 
+
+gamification of science: When making a quantum-related game, you can choose one of two paths: either you implement a quantum technique like procedural generation of maps, or you take an educational approach. 
 
 You win by solving quantum circuit puzzles. 
 
@@ -121,5 +134,9 @@ Enter q_command and click the Save button.
 # Future Plans
 
 * Compare circuit execution on a classical computer vs real quantum device
+* Add different circuits like quantum error correction for the cat to get rid of quantum errors to keep our quantum state alive
+* procedural generation like terrain, levels, puzzles, etc) for game content using quantum computing 
+
+
 
 Have fun exploring and solving quantum circuit puzzles!
