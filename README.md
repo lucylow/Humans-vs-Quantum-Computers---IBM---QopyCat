@@ -1,7 +1,7 @@
 # < QopyCat | Schrödinger Quantum Cats >
 Womanium Quantum Hackathon 2022
 
-[]!(https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/Screen%20Shot%202022-08-23%20at%207.54.19%20PM.png?raw=true)
+![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/Screen%20Shot%202022-08-23%20at%207.54.19%20PM.png?raw=true)
 
 Name of Team:
 Name of team member: Lucy Low low.lucyy@gmail.com, lucylow github, discord
