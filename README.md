@@ -8,6 +8,10 @@ Game that teaches quantum computing using Qiskit (http://qiskit.org)
 Quantum Teleportation built using IBM's QisKit SDK to create quantum computing circuits.
 Taking advantage of IBM's public facing 5 qubit quantum computer
 
+To learn some of these basic quantum concepts for yourself, check out the first few sections of the textbook Learn Quantum Computation using Qiskit. The first chapter starts off quite gently, without assuming too much background mathematical knowlege.
+
+Qiskit textbook
+
 # How it works 
 What is a quantum circuit? https://www.youtube.com/playlist?list=PL1826E60FD05B44E4
 
@@ -15,18 +19,32 @@ A game for exploring and understanding quantum teleportation using quantum circu
 
 This application first entangles two qubits which were initially in the state |00⟩. Then, compare the results by running the same circuit on a simulator and real quantum hardware at IBM.
 
+https://qiskit.org/textbook/preface.html
+
+
+==========
+
+To make a quantum game, you'll need to write quantum software. The basic unit of quantum software is the circuit. You can create and manipulate these in Python by using the Qiskit framework.
+
+Qiskit
+
+https://qiskit.org/
+
+Once you have your quantum software, you need to run it. For complex quantum circuits, the only option is to run it on actual quantum computers. Prototype examples of this quantum hardware are freely available at the IBM Quantum Experience. It is a cloud service, where you submit your quantum jobs to run in the IBM Quantum labs. Note that it will take at least a few minutes to get your results back, so the wait time would need to be taken into account in your game.
+
+IBM Quantum Experience
+https://quantum-computing.ibm.com/
+
+If your quantum circuits are not very complex, you can avoid the need to use real quantum hardware. Instead you can just emulate it on your laptop (or even your phone) using tools bundled in with Qiskit. This is what is done by the vast majority of games that have been made using Qiskit so far (such as QPong)
+
+Qiskit Simulators
+https://qiskit.org/overview/#simulators
+
 # Quantum Teleportation: Build the Circuit
-
-Build a QuantumCircuit composed of the two classical and quantum bits:
-
-
-
-# Gameplay Examples 
+ 
+Build a QuantumCircuit composed of the two classical and quantum bits: Quantum teleportation circuit with Bloch sphere displays (showing that the qubit at the top has ended up at the bottom):
 
 GIF of basic game play
-
-Quantum teleportation circuit with Bloch sphere displays (showing that the qubit at the top has ended up at the bottom):
-
 
 #Prerequsites
 Git
