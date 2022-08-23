@@ -49,9 +49,28 @@ You win by solving quantum circuit puzzles.
 
 1. The game begins when N players.
 2. The initial and final quantum states are given.
-3. The players drag and drop the provided quantum gates to make a correct quantum circuit for the problem. Select a gate or tool from the popup menu (that appears when pressing the Enter key). Place a gate on an empty white block in the circuit (using the X key or button)
-4. The user circuit converter transforms the user input circuit into a Qiskit quantum circuit.
-5. The FIRST player who gets the correct quantum circuit in the shortest amount of time WINS!
+3. Player completes QopyCat maze to unlock Quantum Gate Cards
+4. The players drag and drops the Quantum Gate Cards to make a correct quantum circuit for the problem. 
+5.  Select a gate or tool from the popup menu (that appears when pressing the Enter key). Place a gate on an empty white block in the circuit (using the X key or button)
+6. The user circuit converter transforms the user input circuit into a Qiskit quantum circuit.
+7. At the end of the round, measurements are taken of the quantum circuit. (The “constant” player wins if the measurement turns out to be 00 or 11, and the “balanced” player wins if the measurement turns out to be 01 or 10. )
+8. The FIRST player who gets the correct quantum circuit in the shortest amount of time WINS!
+
+
+
+# Gate Cards
+
+Gate cards will consist of either single qubit gates or two qubit gates, and each gate is assigned a rarity that determines how frequently it is drawn. The gate cards are as follows:
+
+1. Measurement (ends the game early) (Legendary)
+2. U3 (Epic)
+3. SWAP (Rare)
+4. CX, CY, CZ, CH (Rare)
+5. RX, RY, RZ (Rare)
+6. I, S, T (Uncommon)
+7. S_dg, T_dg (Uncommon)
+8. H (Common)
+9. X, Y, Z (Common)
 
 
 # Quantum Teleportation: Build the Circuit
