@@ -25,6 +25,8 @@ Shipping a cat to Schrödinger. Better make sure it survives!
 
 Good cat v.s. Bad cat.
 
+![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/Screen%20Shot%202022-08-23%20at%207.56.55%20PM.png?raw=true)
+
 Bad cat is an obnoxious cat who, sickly, gets off on copying, imitating, emulating, simulating and miming all your actions. She is just another individual who copies you in everything you do.
 
 In the dawn of the Quantum Era, a primitive 3-qubit Quantum Computer is trying to challenge the Classical Computer, the long-time ruler of the Computer Empire. Your mission is to use your Human Intelligence to help the Quantum Computer defeat the Classical Computer and demonstrate "quantum supremacy" for the first time in human history. The battle field of the Quantum-Classic war is none other than the classic Pong game.
