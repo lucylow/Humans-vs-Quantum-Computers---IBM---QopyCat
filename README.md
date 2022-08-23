@@ -1,4 +1,4 @@
-# < QopyCat | Quantum Cats >
+# < QopyCat | Schrödinger Quantum Cats >
 Womanium Quantum Hackathon 2022
 
 Name of Team:
@@ -16,7 +16,7 @@ Taking advantage of IBM's public facing 5 qubit quantum computer
 To learn some of these basic quantum concepts for yourself, check out the first few sections of the textbook Learn Quantum Computation using Qiskit. The first chapter starts off quite gently, without assuming too much background mathematical knowlege.
 
 
-# Storyline
+# Staying Alive: Storyline
 
 Shipping a cat to Schrödinger. Better make sure it survives!
 
