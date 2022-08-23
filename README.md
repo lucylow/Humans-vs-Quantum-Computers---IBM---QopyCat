@@ -1,6 +1,11 @@
 # < QopyCat | Quantum Cats >
-Humans-vs-Quantum-Computers
 Womanium Quantum Hackathon 2022
+
+Name of Team:
+Name of team member: Lucy Low low.lucyy@gmail.com, lucylow github, discord
+Name of pitch presenter: Lucy Low
+Name of Challenge: Humans-vs-Quantum-Computers
+
 
 Game that teaches quantum computing using Qiskit (http://qiskit.org) 
 
@@ -92,7 +97,15 @@ You win by solving quantum circuit puzzles.
 7. At the end of the round, measurements are taken of the quantum circuit. (The “constant” player wins if the measurement turns out to be 00 or 11, and the “balanced” player wins if the measurement turns out to be 01 or 10. )
 8. The FIRST player who gets the correct quantum circuit in the shortest amount of time WINS!
 
+# Maps  Level Systems
 
+Increasing Difficulty:
+
+1. Normal
+2. Medium
+3. Standard
+4. Average
+5. Intermediate
 
 # Gate Cards
 
@@ -155,7 +168,8 @@ Enter q_command and click the Save button.
 
 
 # Future Plans
-
+* Add game mechanics like portals and powerups
+* Add quantum wall barrier to change good/bad cat relative positions
 * Compare circuit execution on a classical computer vs real quantum device
 * Add different circuits like quantum error correction for the cat to get rid of quantum errors to keep our quantum state alive
 * procedural generation like terrain, levels, puzzles, etc) for game content using quantum computing 
