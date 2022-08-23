@@ -124,6 +124,8 @@ Gate cards will consist of either single qubit gates or two qubit gates, and eac
 
 # Quantum Teleportation: Build the Circuit
 
+Explore the building blocks of quantum gates and quantum mechanics through puzzles.
+
 This 2-player game consists, starting from a 6-qubit circuit initialized at |+>|->|+>|->|+>|-> to measure as many |0> or |1> depending on which player you are.
 
 One is allowed to use H, X, Z, and the controlled version of this last two gates to achieve that goal.
