@@ -10,6 +10,8 @@ Taking advantage of IBM's public facing 5 qubit quantum computer
 
 To learn some of these basic quantum concepts for yourself, check out the first few sections of the textbook Learn Quantum Computation using Qiskit. The first chapter starts off quite gently, without assuming too much background mathematical knowlege.
 
+
+
 Qiskit textbook
 
 # How it works 
@@ -40,7 +42,29 @@ If your quantum circuits are not very complex, you can avoid the need to use rea
 Qiskit Simulators
 https://qiskit.org/overview/#simulators
 
+
+=====
+
+The game needs a good understanding of how various probabilities interact, to be able to comprehend how the state collapses upon observation, which happens when the piece is either capturing or being captured, and decides the position of a piece in superposition. Game is a great way to demonstrate and understand quantum properties.
+
+
+# How to play?
+
+You win by solving quantum circuit puzzles. 
+
+1. The game begins when N players.
+2. The initial and final quantum states are given.
+3. The players drag and drop the provided quantum gates to make a correct quantum circuit for the problem. Select a gate or tool from the popup menu (that appears when pressing the Enter key). Place a gate on an empty white block in the circuit (using the X key or button)
+4. The user circuit converter transforms the user input circuit into a Qiskit quantum circuit.
+5. The FIRST player who gets the correct quantum circuit in the shortest amount of time WINS!
+
+
 # Quantum Teleportation: Build the Circuit
+
+This 2-player game consists, starting from a 6-qubit circuit initialized at |+>|->|+>|->|+>|-> to measure as many |0> or |1> depending on which player you are.
+
+One is allowed to use H, X, Z, and the controlled version of this last two gates to achieve that goal.
+
  
 Build a QuantumCircuit composed of the two classical and quantum bits: Quantum teleportation circuit with Bloch sphere displays (showing that the qubit at the top has ended up at the bottom):
 
