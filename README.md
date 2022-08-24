@@ -2,6 +2,16 @@
 Quantum leap in teleportation: Schrödinger's cat is both alive and dead.
 
 
+<div>
+  
+  [![Status](https://img.shields.io/badge/status-work--in--progress-success.svg)]()
+  [![GitHub Issues](https://img.shields.io/github/issues/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat.svg)](https://github.com/lucylow/Deep-Learning-Mahjong---/issues)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/llucylow/Humans-vs-Quantum-Computers---IBM---QopyCat.svg)](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/pulls)
+  [![License](https://img.shields.io/bower/l/bootstrap)]()
+
+</div>
+
+
 ![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/Screen%20Shot%202022-08-23%20at%207.54.19%20PM.png?raw=true)
 
 
@@ -30,8 +40,6 @@ This is a quantum circuit puzzle game with a quantum physics twist. You control 
 
 
 ![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/Screen%20Shot%202022-08-23%20at%207.56.55%20PM.png?raw=true)
-
-=====
 
 
 
