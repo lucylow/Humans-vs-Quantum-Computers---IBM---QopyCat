@@ -1,1 +1,35 @@
 
+import numpy as np
+import qiskit.tools.jupyter
+%qiskit_version_table
+
+# Importing standard Qiskit libraries
+from qiskit import ClassicalRegister, QuantumRegister, QuantumCircuit
+from qiskit import QuantumCircuit, transpile, Aer, IBMQ
+from qiskit.visualization import plot_histogram
+from qiskit import QuantumCircuit, IBMQ, Aer
+from qiskit import execute
+import numpy as np
+from qiskit.tools.jupyter import *
+from qiskit.visualization import *
+from ibm_quantum_widgets import *
+from qiskit.providers.aer import QasmSimulator
+
+
+# Do the necessary imports
+import numpy as np
+from qiskit import QuantumCircuit, QuantumRegister, ClassicalRegister
+from qiskit import IBMQ, Aer, transpile, assemble
+from qiskit.visualization import plot_histogram, plot_bloch_multivector, array_to_latex
+from qiskit.extensions import Initialize
+from qiskit.quantum_info import random_statevector
+
+# Visualisation settings
+import seaborn as sns, operator
+sns.set_style("dark")
+
+pi = np.pi
+
+# Loading IBM Quantum account(s)
+provider = IBMQ.load_account()
+
