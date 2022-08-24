@@ -23,6 +23,9 @@ Name of Challenge: Humans-vs-Quantum-Computers
 
 Quantum Teleportation built using IBM's QisKit SDK to create quantum computing circuits work on  IBM's  5 qubit quantum computers IBMQ Quito and IBMQ Manila: 
 
+IBM Quantum Experience https://quantum-computing.ibm.com/ Qiskit Simulators https://qiskit.org/overview/#simulators
+
+
 ![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/Screen%20Shot%202022-08-23%20at%209.46.05%20PM.png?raw=true)
 
 
@@ -38,61 +41,22 @@ This is a quantum circuit puzzle game with a quantum physics twist. You control 
 
 ![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/Screen%20Shot%202022-08-23%20at%207.56.55%20PM.png?raw=true)
 
-
-
-
-
-
-
-
-# How it works 
-
-
-What is a quantum circuit? https://www.youtube.com/playlist?list=PL1826E60FD05B44E4
-
-A game for exploring and understanding quantum teleportation using quantum circuits with a drag-and-drop quantum circuit simulator.
-
-https://qiskit.org/textbook/preface.html
-
-
-==========
-
-To make a quantum game, you'll need to write quantum software. The basic unit of quantum software is the circuit. You can create and manipulate these in Python by using the Qiskit framework.
-
-Qiskit https://qiskit.org/
-
-Once you have your quantum software, you need to run it. For complex quantum circuits, the only option is to run it on actual quantum computers. Prototype examples of this quantum hardware are freely available at the IBM Quantum Experience. It is a cloud service, where you submit your quantum jobs to run in the IBM Quantum labs. Note that it will take at least a few minutes to get your results back, so the wait time would need to be taken into account in your game.
-
-IBM Quantum Experience https://quantum-computing.ibm.com/
-
-If your quantum circuits are not very complex, you can avoid the need to use real quantum hardware. Instead you can just emulate it on your laptop (or even your phone) using tools bundled in with Qiskit. This is what is done by the vast majority of games that have been made using Qiskit so far (such as QPong)
-
-Qiskit Simulators https://qiskit.org/overview/#simulators
-
-
 =====
 
-The game needs a good understanding of how various probabilities interact, to be able to comprehend how the state collapses upon observation, which happens when the piece is either capturing or being captured, and decides the position of a piece in superposition. Game is a great way to demonstrate and understand quantum properties.
 
 
 # How to play? 
 
-Save the world with quantum circuits. You win by solving quantum circuit puzzles. 
-
-This  game consists, starting from a multi-qubit circuit initialized at |+>|->|+>|->|+>|-> to measure as many |0> or |1> depending on which player you are. This is done by collecting Gates is allowed to use H, X, Z, and the controlled version of this last two gates to achieve the quantum teleportation goal composed of the two classical and quantum bits: Quantum teleportation circuit with Bloch sphere displays.
+Save the world with quantum circuits. You win by solving quantum circuit puzzles. What is a quantum circuit? https://www.youtube.com/playlist?list=PL1826E60FD05B44E4 
 
 
--Move with WASD or arrow keys. 
+A game for exploring and understanding quantum teleportation using quantum circuits with a drag-and-drop quantum circuit simulator and consists, starting from a multi-qubit circuit initialized at |+>|->|+>|->|+>|-> to measure as many |0> or |1> depending on which player you are. The game needs a good understanding of how various probabilities interact, to be able to comprehend how the state collapses upon observation, which happens when the piece is either capturing or being captured, and decides the position of a piece in superposition. 
 
--Avoid lethal yellow lasers.
 
--Use blue detector lines to your advantage by briefly collapsing the superposition.
+Quantum Gates and Quantum Circuit Level Systems with increasing difficulty for the player from 1. Normal 2. Medium 3. Standard 4. Average 5. Intermediate. Gate cards will consist of either single qubit gates or two qubit gates, and each gate is assigned a rarity that determines how frequently it is drawn like measurements, Swaps, RX, RY, RZ for teleportation. This is done by collecting Gates is allowed to use H, X, Z, and the controlled version of this last two gates to achieve the quantum teleportation goal composed of the two classical and quantum bits: Quantum teleportation circuit with Bloch sphere displays. Game is a great way to demonstrate and understand quantum properties. 
 
--Move both cats into the cardboard boxes to clear the level.
+Includes educational quantum elements from https://qiskit.org/textbook/preface.html.
 
--There might be other things that exist in superposition as well.
-
--Press "R" if you get stuck.
 
 
 1. The game begins when N players.
@@ -104,29 +68,8 @@ This  game consists, starting from a multi-qubit circuit initialized at |+>|->|+
 7. At the end of the round, measurements are taken of the quantum circuit. (The “constant” player wins if the measurement turns out to be 00 or 11, and the “balanced” player wins if the measurement turns out to be 01 or 10. )
 8. The FIRST player who gets the correct quantum circuit in the shortest amount of time WINS!
 
-# Quantum Circuit Level Systems
 
-Increasing Difficulty:
 
-1. Normal
-2. Medium
-3. Standard
-4. Average
-5. Intermediate
-
-# Gate Cards
-
-Gate cards will consist of either single qubit gates or two qubit gates, and each gate is assigned a rarity that determines how frequently it is drawn. The gate cards are as follows:
-
-1. Measurement (ends the game early) (Legendary)
-2. U3 (Epic)
-3. SWAP (Rare)
-4. CX, CY, CZ, CH (Rare)
-5. RX, RY, RZ (Rare)
-6. I, S, T (Uncommon)
-7. S_dg, T_dg (Uncommon)
-8. H (Common)
-9. X, Y, Z (Common)
 
 
 
@@ -163,6 +106,7 @@ Install Jupyter (https://github.com/IBM/qiskit-sdk-py/blob/master/tutorial/secti
 # Future Plans
 * Add game mechanics like portals and powerups
 * Add quantum wall barrier to change good/bad cat relative positions
+* Collapsing the superposition part of game
 * Compare circuit execution on a classical computer vs real quantum device
 * https://github.com/mxgmn/WaveFunctionCollapse
 * Add different circuits like quantum error correction for the cat to get rid of quantum errors to keep our quantum state alive
