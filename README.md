@@ -4,7 +4,7 @@ Quantum leap in teleportation: Schrödinger's cat is both alive and dead.
 
 ![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/Screen%20Shot%202022-08-23%20at%207.54.19%20PM.png?raw=true)
 
-Womanium Quantum Hackathon 2022
+Womanium Quantum Hackathon 2022 : IBM Quantum Lab Notebook Game
 
 https://lab.quantum-computing.ibm.com/user/5e28b707e36ac8001898c192/files/qiskit-textbook/content/ch-demos/QOPYCAT%20GAME.ipynb?_xsrf=2%7Ce2d55dc0%7C09405a382bf20eccea0c2fe339a4ea4e%7C1659201756
 
