@@ -84,17 +84,24 @@ Includes educational quantum elements from https://qiskit.org/textbook/preface.h
 
 ## QopyCat Front-End Game 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/lucylow/IBM-QopyCat/blob/main/data/ezgif.com-gif-maker%20(15).gif?raw=true)
+https://youtu.be/NE1nJmxRHLY
 
+### Menu Options
+* Play Qopycat
+* Circuits (6 levels)
+* Teleport (Final Circuit Build)
 
-1. The game begins when N players.
+### How to Play
+
+1. Goal: Collect Quantum Gate Cards to build your Qiskit quantum teleportation circuit 
 2. The initial and final quantum states are given.
-3. Player completes QopyCat maze to unlock Quantum Gate Cards
+3. Player completes 6 QopyCat map to unlock Quantum Gate Cards
 4. The players drag and drops the Quantum Gate Cards to make a correct quantum circuit for the problem. 
-5.  Select a gate or tool from the popup menu (that appears when pressing the Enter key). Place a gate on an empty white block in the circuit (using the X key or button)
+5.  Select a gate or tool from the popup menu (that appears when pressing E). Place a gate on an empty white block in the circuit (using the X key or button)
 6. The user circuit converter transforms the user input circuit into a Qiskit quantum circuit.
 7. At the end of the round, measurements are taken of the quantum circuit. (The “constant” player wins if the measurement turns out to be 00 or 11, and the “balanced” player wins if the measurement turns out to be 01 or 10. )
-8. The FIRST player who gets the correct quantum circuit in the shortest amount of time WINS!
+8. The FIRST player who gets the correct quantum circuit in the shortest amount of time wins!
 
 
 
