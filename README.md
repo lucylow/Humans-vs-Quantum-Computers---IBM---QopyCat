@@ -10,7 +10,7 @@ https://lab.quantum-computing.ibm.com/user/5e28b707e36ac8001898c192/files/qiskit
 
 
 Name of Team: Qubit
-Name of team member: Lucy Low low.lucyy@gmail.com, lucylow github, discord
+Name of team member: Lucy Low low.lucyy@gmail.com, lucylow github, ! LowIQ#5208 discord
 Name of pitch presenter: Lucy Low
 Name of Challenge: Humans-vs-Quantum-Computers
 
