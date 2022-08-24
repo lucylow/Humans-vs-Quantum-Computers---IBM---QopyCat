@@ -1,0 +1,24 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+body {
+    color:white;
+    background-color: #F7545A;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+canvas {
+    flex-shrink: 0;
+    background-color: #F7545A;
+    object-fit: contain;
+}
+.crisp{
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-crisp-edges;
+  image-rendering: pixelated;
+}
