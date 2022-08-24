@@ -11,7 +11,7 @@ Quantum leap in teleportation: Schrödinger's cat is both alive and dead.
 
 </div>
 
-
+---
 ![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/Screen%20Shot%202022-08-23%20at%207.54.19%20PM.png?raw=true)
 
 
@@ -21,13 +21,14 @@ Quantum leap in teleportation: Schrödinger's cat is both alive and dead.
 * Name of Challenge: Humans-vs-Quantum-Computers
 
 
-
+---
 
 # Name of Challenge: Humans-vs-Quantum-Computers
 
 
 "Create a working interactive ‘program’ (it can be a website, game, app, etc.) in which a human user is facing off against a quantum computer. This is broad on purpose - the program can be built in many different ways. Your program should implement strategies that seriously challenge the human player. The implementation must utilize more than just probabilities related to measuring quantum states. You must use Qiskit to program the computer’s gameplay strategy, and as much as possible, the strategy should be implemented with quantum circuits and quantum gates on real quantum hardware (although using the Simulator is understandable given the time limit)."
 
+---
 
 # Staying Alive: Game Storyline
 
@@ -41,7 +42,7 @@ This is a quantum circuit puzzle game with a quantum physics twist. You control 
 
 ![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/Screen%20Shot%202022-08-23%20at%207.56.55%20PM.png?raw=true)
 
-
+---
 
 # How to play? 
 
@@ -83,7 +84,7 @@ Includes educational quantum elements from https://qiskit.org/textbook/preface.h
 
 
 
-
+---
 
 # Installing 
 
@@ -111,7 +112,7 @@ Build the output.
 > npm install
 
 Install Jupyter (https://github.com/IBM/qiskit-sdk-py/blob/master/tutorial/sections/tutorial4developer.ipynb). Currently the program expects Jupyter to be installed in the same directory as this repo.
-
+---
 
 # Future Plans
 * Add game mechanics like portals and powerups
@@ -123,4 +124,4 @@ Install Jupyter (https://github.com/IBM/qiskit-sdk-py/blob/master/tutorial/secti
 * Add a timer and leadership board 
 * Procedural generation like terrain, levels, puzzles, etc) for game content using quantum computing 
 
-
+---
