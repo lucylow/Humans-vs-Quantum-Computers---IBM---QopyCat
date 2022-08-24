@@ -1,4 +1,5 @@
 # < QopyCat | Schrödinger's Quantum Cats >
+Quantum leap in teleportation: Schrödinger's cat is both alive and dead.
 
 
 ![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/Screen%20Shot%202022-08-23%20at%207.54.19%20PM.png?raw=true)
