@@ -44,7 +44,7 @@ This is a quantum circuit puzzle game with a quantum physics twist. You control 
 
 ---
 
-# How to play? 
+# Qiskit Quantum Circuit Back-End
 
 Womanium Quantum Hackathon 2022 : IBM Quantum Lab Notebook Game
 
@@ -57,14 +57,6 @@ IBM Quantum Experience https://quantum-computing.ibm.com/ Qiskit Simulators http
 
 
 ![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/Screen%20Shot%202022-08-23%20at%209.46.05%20PM.png?raw=true)
-
-
-
-
-
-----
-
-## Quantum Circuits
 
 
 
@@ -90,8 +82,9 @@ Includes educational quantum elements from https://qiskit.org/textbook/preface.h
 
 ----
 
-## QopyCat Game
+## QopyCat Front-End Game 
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 1. The game begins when N players.
