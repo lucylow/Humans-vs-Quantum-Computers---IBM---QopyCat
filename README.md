@@ -29,7 +29,7 @@ https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main
 # Staying Alive: Storyline
 
 
-Professor X was testing a quantum experiment on his digital cat Schrödinger when his quantum computer started glitching -  entangling his cat into two copies - good and bad. Bad cat is controlled by the Quantum Computer and is an obnoxious cat who, sickly, gets off on copying, imitating, emulating, simulating and miming all your actions and is just another individual who copies you in everything you do. He wants to destroy the world.
+Professor X was testing a quantum experiment on his digital cat Schrödinger when his quantum computer started glitching -  entangling his cat into two copies - good and bad. Bad cat is controlled by the Quantum Computer and is an obnoxious cat who, sickly, gets off on copying, imitating, emulating, simulating and miming all your actions and is just another individual who copies you in everything you do. He wants to steal the diamond quantum computer running Professor X's lab experiment and destroy the world.
 
 This is a quantum circuit game in which you have to save both the good and bad cat in the screen at the same time, in order to earn quantum gates to complete the quantum circuit. Here, the good cat = the Classical Computer, and the bad cat is the Quantum computer.  Save the world with quantum circuits.
 
@@ -105,7 +105,7 @@ You win by solving quantum circuit puzzles.
 7. At the end of the round, measurements are taken of the quantum circuit. (The “constant” player wins if the measurement turns out to be 00 or 11, and the “balanced” player wins if the measurement turns out to be 01 or 10. )
 8. The FIRST player who gets the correct quantum circuit in the shortest amount of time WINS!
 
-# Maps  Level Systems
+# Quantum Circuit Level Systems
 
 Increasing Difficulty:
 
@@ -178,8 +178,7 @@ Install Jupyter (https://github.com/IBM/qiskit-sdk-py/blob/master/tutorial/secti
 * Compare circuit execution on a classical computer vs real quantum device
 * https://github.com/mxgmn/WaveFunctionCollapse
 * Add different circuits like quantum error correction for the cat to get rid of quantum errors to keep our quantum state alive
-* procedural generation like terrain, levels, puzzles, etc) for game content using quantum computing 
+* Add a timer and leadership board 
+* Procedural generation like terrain, levels, puzzles, etc) for game content using quantum computing 
 
 
-
-Have fun exploring and solving quantum circuit puzzles!
