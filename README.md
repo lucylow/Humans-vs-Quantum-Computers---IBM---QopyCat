@@ -9,50 +9,48 @@ Womanium Quantum Hackathon 2022 : IBM Quantum Lab Notebook Game
 https://lab.quantum-computing.ibm.com/user/5e28b707e36ac8001898c192/files/qiskit-textbook/content/ch-demos/QOPYCAT%20GAME.ipynb?_xsrf=2%7Ce2d55dc0%7C09405a382bf20eccea0c2fe339a4ea4e%7C1659201756
 
 
+# Name of Challenge: Humans-vs-Quantum-Computers
+
+
+"Create a working interactive ‘program’ (it can be a website, game, app, etc.) in which a human user is facing off against a quantum computer. This is broad on purpose - the program can be built in many different ways. Your program should implement strategies that seriously challenge the human player. The implementation must utilize more than just probabilities related to measuring quantum states. You must use Qiskit to program the computer’s gameplay strategy, and as much as possible, the strategy should be implemented with quantum circuits and quantum gates on real quantum hardware (although using the Simulator is understandable given the time limit)."
+
 Name of Team: Qubit
 Name of team member: Lucy Low low.lucyy@gmail.com, lucylow github, ! LowIQ#5208 discord
 Name of pitch presenter: Lucy Low
 Name of Challenge: Humans-vs-Quantum-Computers
 
 
-Game that teaches quantum computing using Qiskit (http://qiskit.org) 
 
+Quantum Teleportation built using IBM's QisKit SDK to create quantum computing circuits work on  IBM's  5 qubit quantum computers IBMQ Quito and IBMQ Manila: 
 
-Quantum Teleportation built using IBM's QisKit SDK to create quantum computing circuits.
-Taking advantage of IBM's public facing 5 qubit quantum computer
-
-To learn some of these basic quantum concepts for yourself, check out the first few sections of the textbook Learn Quantum Computation using Qiskit. The first chapter starts off quite gently, without assuming too much background mathematical knowlege.
+https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/Screen%20Shot%202022-08-23%20at%209.46.05%20PM.png?raw=true
 
 
 # Staying Alive: Storyline
 
-Shipping a cat to Schrödinger. Better make sure it survives!
 
+Professor X was testing a quantum experiment on his digital cat Schrödinger when his quantum computer started glitching -  entangling his cat into two copies - good and bad. Bad cat is controlled by the Quantum Computer and is an obnoxious cat who, sickly, gets off on copying, imitating, emulating, simulating and miming all your actions and is just another individual who copies you in everything you do. He wants to destroy the world.
 
-Good cat v.s. Bad cat.
+This is a quantum circuit game in which you have to save both the good and bad cat in the screen at the same time, in order to earn quantum gates to complete the quantum circuit. Here, the good cat = the Classical Computer, and the bad cat is the Quantum computer.  Save the world with quantum circuits.
+
+This is a quantum circuit puzzle game with a quantum physics twist. You control a cat in a superposition through a bizarre world. Your mission as Professor X to use your genius skills to solve circuits to help the good cat defeat the bad cat and demonstrate "quantum supremacy" for the first time in human history. This is done by comparing the results by running the same circuit on a simulator and real quantum hardware at IBM.
+
 
 ![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/Screen%20Shot%202022-08-23%20at%207.56.55%20PM.png?raw=true)
 
-Bad cat is an obnoxious cat who, sickly, gets off on copying, imitating, emulating, simulating and miming all your actions. She is just another individual who copies you in everything you do.
-
-In the dawn of the Quantum Era, a primitive 3-qubit Quantum Computer is trying to challenge the Classical Computer, the long-time ruler of the Computer Empire. Your mission is to use your Human Intelligence to help the Quantum Computer defeat the Classical Computer and demonstrate "quantum supremacy" for the first time in human history. The battle field of the Quantum-Classic war is none other than the classic Pong game.
 
 
 
-This is a quantum puzzle game in which you have to save both the good and bad cat in the screen at the same time, in order to earn quantum gates to complete the quantum circuit. 
+
+
 
 
 # How it works 
-
-This is a tile-based puzzle game with a quantum physics twist. You control a cat in a superposition through a bizarre world. 
-
 
 
 What is a quantum circuit? https://www.youtube.com/playlist?list=PL1826E60FD05B44E4
 
 A game for exploring and understanding quantum teleportation using quantum circuits with a drag-and-drop quantum circuit simulator.
-
-This application first entangles two qubits which were initially in the state |00⟩. Then, compare the results by running the same circuit on a simulator and real quantum hardware at IBM.
 
 https://qiskit.org/textbook/preface.html
 
