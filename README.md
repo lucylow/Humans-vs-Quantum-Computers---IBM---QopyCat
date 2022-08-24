@@ -1,6 +1,6 @@
 # < QopyCat | Schrödinger's Quantum Cats >
 Quantum leap in teleportation: Schrödinger's cat is both alive and dead.
-
+Womanium Quantum Hackathon 2022
 
 <div>
   
@@ -23,7 +23,7 @@ Quantum leap in teleportation: Schrödinger's cat is both alive and dead.
 
 ---
 
-# Name of Challenge: Humans-vs-Quantum-Computers
+# Humans-vs-Quantum-Computers
 
 
 "Create a working interactive ‘program’ (it can be a website, game, app, etc.) in which a human user is facing off against a quantum computer. This is broad on purpose - the program can be built in many different ways. Your program should implement strategies that seriously challenge the human player. The implementation must utilize more than just probabilities related to measuring quantum states. You must use Qiskit to program the computer’s gameplay strategy, and as much as possible, the strategy should be implemented with quantum circuits and quantum gates on real quantum hardware (although using the Simulator is understandable given the time limit)."
@@ -44,9 +44,9 @@ This is a quantum circuit puzzle game with a quantum physics twist. You control 
 
 ---
 
-# Qiskit Quantum Circuit Back-End
+# Qiskit Quantum Circuit
 
-Womanium Quantum Hackathon 2022 : IBM Quantum Lab Notebook Game
+IBM Quantum Lab QopyCat NotebooK:
 
 https://lab.quantum-computing.ibm.com/user/5e28b707e36ac8001898c192/files/qiskit-textbook/content/ch-demos/QOPYCAT%20GAME.ipynb?_xsrf=2%7Ce2d55dc0%7C09405a382bf20eccea0c2fe339a4ea4e%7C1659201756
 
@@ -85,6 +85,7 @@ Includes educational quantum elements from https://qiskit.org/textbook/preface.h
 ## QopyCat Front-End Game 
 
 ![Alt Text](https://github.com/lucylow/IBM-QopyCat/blob/main/data/ezgif.com-gif-maker%20(15).gif?raw=true)
+
 https://youtu.be/NE1nJmxRHLY
 
 ### Menu Options
@@ -142,6 +143,8 @@ Install Jupyter (https://github.com/IBM/qiskit-sdk-py/blob/master/tutorial/secti
 ---
 
 ## QopyCat End Game 
+
+Example of the Quantum Computer (bad cat) winning significantly over the Classical Computer (good cat) with a 10% error margin
 
 ![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/qiskit/Screen%20Shot%202022-08-23%20at%2010.55.13%20PM.png?raw=true)
 
