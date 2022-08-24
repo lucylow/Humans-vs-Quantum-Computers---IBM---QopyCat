@@ -33,7 +33,7 @@ Quantum leap in teleportation: Schrödinger's cat is both alive and dead.
 # Staying Alive: Game Storyline
 
 
-Professor X was testing a quantum experiment on his digital cat Schrödinger when his quantum computer started glitching -  entangling his cat into two copies - good and bad. Bad cat is controlled by the Quantum Computer and is an obnoxious cat who, sickly, gets off on copying, imitating, emulating, simulating and miming all your actions and is just another individual who copies you in everything you do. He wants to steal the diamond quantum computer running Professor X's lab experiment and destroy the world.
+Professor X was testing a quantum experiment on his digital cat Schrödinger when his quantum computer started glitching. By entangling his cat into two copies, she seperated the cat's dark and light energy. Bad cat is controlled by the Quantum Computer and is an obnoxious cat who, sickly, gets off on copying, imitating, emulating, simulating and miming all your actions and is just another individual who copies you in everything you do. *He wants to steal the diamond quantum computer running Professor X's lab experiment and destroy the world.*
 
 This is a quantum circuit game in which you have to save both the good and bad cat in the screen at the same time, in order to earn quantum gates to complete the quantum circuit. Here, the good cat = the Classical Computer, and the bad cat is the Quantum computer.  Save the world with quantum circuits.
 
@@ -94,14 +94,18 @@ https://youtu.be/NE1nJmxRHLY
 
 ### How to Play
 
-1. Goal: Collect Quantum Gate Cards to build your Qiskit quantum teleportation circuit 
-2. The initial and final quantum states are given.
+
+The good and bad cats are quantumly entangled such that any action performed by one of us must also be performed by the other. 
+
+
+1. Move the two cats in superpositioned with keyboard WASD or arrow keys. 
+2. Move both cats into the final quantum state without harm.
 3. Player completes 6 QopyCat map to unlock Quantum Gate Cards
 4. The players drag and drops the Quantum Gate Cards to make a correct quantum circuit for the problem. 
-5.  Select a gate or tool from the popup menu (that appears when pressing E). Place a gate on an empty white block in the circuit (using the X key or button)
+5.  Select a gate or tool from the popup menu (that appears when pressing E). Place H gates on an empty white block in the circuit (using the X key or button)
 6. The user circuit converter transforms the user input circuit into a Qiskit quantum circuit.
 7. At the end of the round, measurements are taken of the quantum circuit. (The “constant” player wins if the measurement turns out to be 00 or 11, and the “balanced” player wins if the measurement turns out to be 01 or 10. )
-8. The FIRST player who gets the correct quantum circuit in the shortest amount of time wins!
+8. The first player who gets the correct quantum circuit in the shortest amount of time wins!
 
 
 
