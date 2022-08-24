@@ -6,7 +6,7 @@ Quantum leap in teleportation: Schrödinger's cat is both alive and dead.
   
   [![Status](https://img.shields.io/badge/status-work--in--progress-success.svg)]()
   [![GitHub Issues](https://img.shields.io/github/issues/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat.svg)](https://github.com/lucylow/Deep-Learning-Mahjong---/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/llucylow/Humans-vs-Quantum-Computers---IBM---QopyCat.svg)](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/pulls)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat.svg)](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/pulls)
   [![License](https://img.shields.io/bower/l/bootstrap)]()
 
 </div>
