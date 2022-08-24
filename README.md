@@ -1,4 +1,4 @@
-# < QopyCat | Schrödinger Quantum Cats >
+# < QopyCat | Schrödinger's Quantum Cats >
 Womanium Quantum Hackathon 2022
 
 ![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/Screen%20Shot%202022-08-23%20at%207.54.19%20PM.png?raw=true)
