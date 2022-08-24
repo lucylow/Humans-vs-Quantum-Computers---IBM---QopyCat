@@ -23,7 +23,7 @@ Name of Challenge: Humans-vs-Quantum-Computers
 
 Quantum Teleportation built using IBM's QisKit SDK to create quantum computing circuits work on  IBM's  5 qubit quantum computers IBMQ Quito and IBMQ Manila: 
 
-https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/Screen%20Shot%202022-08-23%20at%209.46.05%20PM.png?raw=true
+![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/Screen%20Shot%202022-08-23%20at%209.46.05%20PM.png?raw=true)
 
 
 # Staying Alive: Storyline
