@@ -66,20 +66,6 @@ IBM Quantum Experience https://quantum-computing.ibm.com/ Qiskit Simulators http
 
 ## Quantum Circuits
 
-![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/qiskit/Screen%20Shot%202022-08-23%20at%2010.54.33%20PM.png?raw=true)
-![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/qiskit/Screen%20Shot%202022-08-23%20at%2010.54.43%20PM.png?raw=true)
-![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/qiskit/Screen%20Shot%202022-08-23%20at%2010.54.58%20PM.png?raw=true)
-
-## End Game 
-
-![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/qiskit/Screen%20Shot%202022-08-23%20at%2010.55.13%20PM.png?raw=true)
-
-![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/qiskit/Screen%20Shot%202022-08-23%20at%2010.55.24%20PM.png?raw=true)
-
-
-
-----
-
 
 
 Save the world with quantum circuits. You win by solving quantum circuit puzzles. What is a quantum circuit? https://www.youtube.com/playlist?list=PL1826E60FD05B44E4 
@@ -91,6 +77,20 @@ A game for exploring and understanding quantum teleportation using quantum circu
 Quantum Gates and Quantum Circuit Level Systems with increasing difficulty for the player from 1. Normal 2. Medium 3. Standard 4. Average 5. Intermediate. Gate cards will consist of either single qubit gates or two qubit gates, and each gate is assigned a rarity that determines how frequently it is drawn like measurements, Swaps, RX, RY, RZ for teleportation. This is done by collecting Gates is allowed to use H, X, Z, and the controlled version of this last two gates to achieve the quantum teleportation goal composed of the two classical and quantum bits: Quantum teleportation circuit with Bloch sphere displays. Game is a great way to demonstrate and understand quantum properties. 
 
 Includes educational quantum elements from https://qiskit.org/textbook/preface.html.
+
+
+
+![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/qiskit/Screen%20Shot%202022-08-23%20at%2010.54.33%20PM.png?raw=true)
+![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/qiskit/Screen%20Shot%202022-08-23%20at%2010.54.43%20PM.png?raw=true)
+![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/qiskit/Screen%20Shot%202022-08-23%20at%2010.54.58%20PM.png?raw=true)
+
+
+
+
+
+----
+
+## QopyCat Game
 
 
 
@@ -135,6 +135,13 @@ Build the output.
 
 Install Jupyter (https://github.com/IBM/qiskit-sdk-py/blob/master/tutorial/sections/tutorial4developer.ipynb)
 
+---
+
+## QopyCat End Game 
+
+![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/qiskit/Screen%20Shot%202022-08-23%20at%2010.55.13%20PM.png?raw=true)
+
+![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/qiskit/Screen%20Shot%202022-08-23%20at%2010.55.24%20PM.png?raw=true)
 
 ---
 
