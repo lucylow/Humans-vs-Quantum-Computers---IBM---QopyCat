@@ -77,11 +77,10 @@ The game needs a good understanding of how various probabilities interact, to be
 
 # How to play? 
 
-Save the world with quantum circuits. 
+Save the world with quantum circuits. You win by solving quantum circuit puzzles. 
 
-gamification of science: When making a quantum-related game, you can choose one of two paths: either you implement a quantum technique like procedural generation of maps, or you take an educational approach. 
+This  game consists, starting from a multi-qubit circuit initialized at |+>|->|+>|->|+>|-> to measure as many |0> or |1> depending on which player you are. This is done by collecting Gates is allowed to use H, X, Z, and the controlled version of this last two gates to achieve the quantum teleportation goal composed of the two classical and quantum bits: Quantum teleportation circuit with Bloch sphere displays.
 
-You win by solving quantum circuit puzzles. 
 
 -Move with WASD or arrow keys. 
 
@@ -130,28 +129,17 @@ Gate cards will consist of either single qubit gates or two qubit gates, and eac
 9. X, Y, Z (Common)
 
 
-# Quantum Teleportation: Build the Circuit
-
-Explore the building blocks of quantum gates and quantum mechanics through puzzles.
-
-This 2-player game consists, starting from a 6-qubit circuit initialized at |+>|->|+>|->|+>|-> to measure as many |0> or |1> depending on which player you are.
-
-One is allowed to use H, X, Z, and the controlled version of this last two gates to achieve that goal.
-
- 
-Build a QuantumCircuit composed of the two classical and quantum bits: Quantum teleportation circuit with Bloch sphere displays (showing that the qubit at the top has ended up at the bottom):
-
-GIF of basic game play
-
-#Prerequsites
-Git
-Node.JS
-Python 3
-Qiskit
-IBMQ API token
 
 # Installing 
 
+
+Install the Prerequsites
+
+> Git
+> Node.JS
+> Python 3
+> Qiskit
+> IBMQ API token
 
 Clone the repository.
 
