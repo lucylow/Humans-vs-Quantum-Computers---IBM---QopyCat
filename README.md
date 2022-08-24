@@ -60,6 +60,28 @@ IBM Quantum Experience https://quantum-computing.ibm.com/ Qiskit Simulators http
 
 
 
+
+
+----
+
+## Quantum Circuits
+
+![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/qiskit/Screen%20Shot%202022-08-23%20at%2010.54.33%20PM.png?raw=true)
+![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/qiskit/Screen%20Shot%202022-08-23%20at%2010.54.43%20PM.png?raw=true)
+![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/qiskit/Screen%20Shot%202022-08-23%20at%2010.54.58%20PM.png?raw=true)
+
+## End Game 
+
+![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/qiskit/Screen%20Shot%202022-08-23%20at%2010.55.13%20PM.png?raw=true)
+
+![](https://github.com/lucylow/Humans-vs-Quantum-Computers---IBM---QopyCat/blob/main/data/qiskit/Screen%20Shot%202022-08-23%20at%2010.55.24%20PM.png?raw=true)
+
+
+
+----
+
+
+
 Save the world with quantum circuits. You win by solving quantum circuit puzzles. What is a quantum circuit? https://www.youtube.com/playlist?list=PL1826E60FD05B44E4 
 
 
