@@ -167,11 +167,6 @@ Install Jupyter (https://github.com/IBM/qiskit-sdk-py/blob/master/tutorial/secti
 
 > Copy out/qopycat.html to wherever you want.
 
-# Running 
-
-
-Enter q_command and click the Save button.
-
 
 # Future Plans
 * Add game mechanics like portals and powerups
